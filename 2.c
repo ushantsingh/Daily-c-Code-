@@ -14,7 +14,8 @@ int main()
     {
         if(arr[i]<0)
         {
-            result[j++]=arr[i];
+            result[j]=arr[i];
+            j++;
         }
     }
 
@@ -24,7 +25,8 @@ int main()
     {
         if(arr[i]>0)
         {
-            result[j++]=arr[i];
+            result[j]=arr[i];
+            j++;
         }
     }
 

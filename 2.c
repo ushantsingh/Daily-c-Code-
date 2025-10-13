@@ -9,6 +9,7 @@ int main()
     int result[n];
 
     // copying all negative numbers
+    
 
     for (int i=0;i<n;i++)
     {

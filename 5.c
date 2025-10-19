@@ -22,7 +22,7 @@ void SortArray(int arr[], int n)
         {
             mid++;
         }
-        else// -->arr[mid]=2
+        else// -->arr[mid]==2
         {
             int temp = arr[mid];
             arr[mid] = arr[high];

@@ -1,4 +1,4 @@
-//  Wap to cyclically rotate an array by one .
+//  Wap to Cyclic rotate an array by one .
 
 #include<stdio.h>
 int main()
